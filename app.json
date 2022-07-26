@@ -1,0 +1,33 @@
+{
+  "id": "1ddbaec3-f604-4965-b7c7-1eb1122a4c48",
+  "name": "ALProject7",
+  "publisher": "Default publisher",
+  "version": "1.0.0.10",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "internalsVisibleTo": [
+    {
+      "id": "1ddbaec3-f604-4965-b7c7-1eb1122a4c48",
+      "name": "AgedAccountsPayableExt",
+      "publisher": "SD"
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://ALProject7.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0"
+}
